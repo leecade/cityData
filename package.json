@@ -5,7 +5,7 @@
 	"author": "basecss <i@basecss.net>",
 	"contributors": [],
 	"dependencies": {
-		"commander": "~2.2.0"
+		"commander": "~2.9.0"
 	},
 	"devDependencies": {},
 	"main": "city.js",
